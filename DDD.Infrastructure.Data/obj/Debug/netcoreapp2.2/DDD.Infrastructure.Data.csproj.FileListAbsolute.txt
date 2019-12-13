@@ -1,0 +1,12 @@
+E:\Core\DDD.Demo\DDD.Infrastructure.Data\bin\Debug\netcoreapp2.2\DDD.Infrastructure.Data.deps.json
+E:\Core\DDD.Demo\DDD.Infrastructure.Data\bin\Debug\netcoreapp2.2\DDD.Infrastructure.Data.dll
+E:\Core\DDD.Demo\DDD.Infrastructure.Data\bin\Debug\netcoreapp2.2\DDD.Infrastructure.Data.pdb
+E:\Core\DDD.Demo\DDD.Infrastructure.Data\bin\Debug\netcoreapp2.2\DDD.Domain.dll
+E:\Core\DDD.Demo\DDD.Infrastructure.Data\bin\Debug\netcoreapp2.2\DDD.Domain.pdb
+E:\Core\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\DDD.Infrastructure.Data.csprojAssemblyReference.cache
+E:\Core\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\DDD.Infrastructure.Data.csproj.CoreCompileInputs.cache
+E:\Core\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\DDD.Infrastructure.Data.AssemblyInfoInputs.cache
+E:\Core\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\DDD.Infrastructure.Data.AssemblyInfo.cs
+E:\Core\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\DDD.Infrastructure.Data.csproj.CopyComplete
+E:\Core\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\DDD.Infrastructure.Data.dll
+E:\Core\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\DDD.Infrastructure.Data.pdb

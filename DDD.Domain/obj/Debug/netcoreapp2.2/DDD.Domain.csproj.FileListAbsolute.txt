@@ -1,0 +1,9 @@
+E:\Core\DDD.Demo\DDD.Domain\bin\Debug\netcoreapp2.2\DDD.Domain.deps.json
+E:\Core\DDD.Demo\DDD.Domain\bin\Debug\netcoreapp2.2\DDD.Domain.dll
+E:\Core\DDD.Demo\DDD.Domain\bin\Debug\netcoreapp2.2\DDD.Domain.pdb
+E:\Core\DDD.Demo\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.csprojAssemblyReference.cache
+E:\Core\DDD.Demo\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.csproj.CoreCompileInputs.cache
+E:\Core\DDD.Demo\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.AssemblyInfoInputs.cache
+E:\Core\DDD.Demo\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.AssemblyInfo.cs
+E:\Core\DDD.Demo\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.dll
+E:\Core\DDD.Demo\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.pdb

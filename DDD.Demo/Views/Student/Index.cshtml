@@ -1,0 +1,14 @@
+﻿@model IEnumerable<StudentViewModel>
+@{
+    ViewData["Title"] = "Index";
+}
+
+@if (Model.Any())
+{
+    foreach (var m in Model)
+    {
+        <div>@m.Name</div>
+        <div>@m.BirthDate</div>
+    }
+}
+
