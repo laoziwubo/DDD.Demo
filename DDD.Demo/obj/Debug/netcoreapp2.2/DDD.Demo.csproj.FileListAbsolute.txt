@@ -33,3 +33,12 @@ E:\Core\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp2.2\DDD.Demo.csproj.CopyComplete
 E:\Core\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp2.2\DDD.Demo.dll
 E:\Core\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp2.2\DDD.Demo.pdb
 E:\Core\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp2.2\Razor\Views\Student\Create.g.cshtml.cs
+F:\Git\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp2.2\DDD.Demo.csprojAssemblyReference.cache
+F:\Git\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp2.2\DDD.Demo.RazorAssemblyInfo.cache
+F:\Git\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp2.2\DDD.Demo.RazorAssemblyInfo.cs
+F:\Git\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp2.2\DDD.Demo.AssemblyInfoInputs.cache
+F:\Git\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp2.2\DDD.Demo.AssemblyInfo.cs
+F:\Git\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp2.2\DDD.Demo.TagHelpers.input.cache
+F:\Git\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp2.2\DDD.Demo.TagHelpers.output.cache
+F:\Git\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp2.2\DDD.Demo.dll
+F:\Git\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp2.2\DDD.Demo.pdb

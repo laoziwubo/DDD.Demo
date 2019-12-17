@@ -1,0 +1,8 @@
+F:\Git\DDD.Demo\DDD.Domain\bin\Debug\netcoreapp3.1\DDD.Domain.deps.json
+F:\Git\DDD.Demo\DDD.Domain\bin\Debug\netcoreapp3.1\DDD.Domain.dll
+F:\Git\DDD.Demo\DDD.Domain\bin\Debug\netcoreapp3.1\DDD.Domain.pdb
+F:\Git\DDD.Demo\DDD.Domain\obj\Debug\netcoreapp3.1\DDD.Domain.csprojAssemblyReference.cache
+F:\Git\DDD.Demo\DDD.Domain\obj\Debug\netcoreapp3.1\DDD.Domain.AssemblyInfoInputs.cache
+F:\Git\DDD.Demo\DDD.Domain\obj\Debug\netcoreapp3.1\DDD.Domain.AssemblyInfo.cs
+F:\Git\DDD.Demo\DDD.Domain\obj\Debug\netcoreapp3.1\DDD.Domain.dll
+F:\Git\DDD.Demo\DDD.Domain\obj\Debug\netcoreapp3.1\DDD.Domain.pdb

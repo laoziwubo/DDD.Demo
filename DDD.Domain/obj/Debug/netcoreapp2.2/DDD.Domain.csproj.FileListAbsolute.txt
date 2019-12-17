@@ -7,3 +7,10 @@ E:\Core\DDD.Demo\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.AssemblyInfoInput
 E:\Core\DDD.Demo\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.AssemblyInfo.cs
 E:\Core\DDD.Demo\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.dll
 E:\Core\DDD.Demo\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.pdb
+F:\Git\DDD.Demo\DDD.Domain\bin\Debug\netcoreapp2.2\DDD.Domain.deps.json
+F:\Git\DDD.Demo\DDD.Domain\bin\Debug\netcoreapp2.2\DDD.Domain.dll
+F:\Git\DDD.Demo\DDD.Domain\bin\Debug\netcoreapp2.2\DDD.Domain.pdb
+F:\Git\DDD.Demo\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.AssemblyInfoInputs.cache
+F:\Git\DDD.Demo\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.AssemblyInfo.cs
+F:\Git\DDD.Demo\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.dll
+F:\Git\DDD.Demo\DDD.Domain\obj\Debug\netcoreapp2.2\DDD.Domain.pdb

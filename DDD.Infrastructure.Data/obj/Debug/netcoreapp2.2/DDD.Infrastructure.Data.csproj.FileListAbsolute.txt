@@ -10,3 +10,14 @@ E:\Core\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\DDD.Infrastruct
 E:\Core\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\DDD.Infrastructure.Data.csproj.CopyComplete
 E:\Core\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\DDD.Infrastructure.Data.dll
 E:\Core\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\DDD.Infrastructure.Data.pdb
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\bin\Debug\netcoreapp2.2\DDD.Infrastructure.Data.deps.json
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\bin\Debug\netcoreapp2.2\DDD.Infrastructure.Data.dll
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\bin\Debug\netcoreapp2.2\DDD.Infrastructure.Data.pdb
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\bin\Debug\netcoreapp2.2\DDD.Domain.dll
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\bin\Debug\netcoreapp2.2\DDD.Domain.pdb
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\DDD.Infrastructure.Data.csprojAssemblyReference.cache
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\DDD.Infrastructure.Data.AssemblyInfoInputs.cache
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\DDD.Infrastructure.Data.AssemblyInfo.cs
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\DDD.Infrastructure.Data.csproj.CopyComplete
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\DDD.Infrastructure.Data.dll
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp2.2\DDD.Infrastructure.Data.pdb
