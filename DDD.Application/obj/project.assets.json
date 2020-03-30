@@ -860,7 +860,7 @@
           "bin/placeholder/DDD.Domain.dll": {}
         }
       },
-      "DDD.Infrastructure.Data/1.0.0": {
+      "DDD.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -871,10 +871,10 @@
           "Microsoft.Extensions.Configuration.Json": "2.2.0"
         },
         "compile": {
-          "bin/placeholder/DDD.Infrastructure.Data.dll": {}
+          "bin/placeholder/DDD.Infrastructure.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DDD.Infrastructure.Data.dll": {}
+          "bin/placeholder/DDD.Infrastructure.dll": {}
         }
       }
     }
@@ -3238,17 +3238,17 @@
       "path": "../DDD.Domain/DDD.Domain.csproj",
       "msbuildProject": "../DDD.Domain/DDD.Domain.csproj"
     },
-    "DDD.Infrastructure.Data/1.0.0": {
+    "DDD.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../DDD.Infrastructure.Data/DDD.Infrastructure.Data.csproj",
-      "msbuildProject": "../DDD.Infrastructure.Data/DDD.Infrastructure.Data.csproj"
+      "path": "../DDD.Infrastructure.Data/DDD.Infrastructure.csproj",
+      "msbuildProject": "../DDD.Infrastructure.Data/DDD.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "AutoMapper >= 9.0.0",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 7.0.0",
-      "DDD.Infrastructure.Data >= 1.0.0"
+      "DDD.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3277,8 +3277,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\Git\\DDD.Demo\\DDD.Infrastructure.Data\\DDD.Infrastructure.Data.csproj": {
-              "projectPath": "F:\\Git\\DDD.Demo\\DDD.Infrastructure.Data\\DDD.Infrastructure.Data.csproj"
+            "F:\\Git\\DDD.Demo\\DDD.Infrastructure.Data\\DDD.Infrastructure.csproj": {
+              "projectPath": "F:\\Git\\DDD.Demo\\DDD.Infrastructure.Data\\DDD.Infrastructure.csproj"
             }
           }
         }

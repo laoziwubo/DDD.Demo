@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace DDD.Infrastructure.Data.DB
+namespace DDD.Infrastructure.DB
 {
     public class DbConfig
     {

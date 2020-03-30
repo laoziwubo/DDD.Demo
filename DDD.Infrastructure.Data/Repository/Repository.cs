@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using DDD.Domain.Interface;
-using DDD.Infrastructure.Data.Context;
+using DDD.Infrastructure.Context;
 using Microsoft.EntityFrameworkCore;
 
-namespace DDD.Infrastructure.Data.Repository
+namespace DDD.Infrastructure.Repository
 {
     public class Repository<T> : IRepository<T> where T : class
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using DDD.Domain.Event;
 
-namespace DDD.Infrastructure.Data.Repository.EventSourcing
+namespace DDD.Infrastructure.Repository.EventSourcing
 {
     public interface IEventStoreRepository : IDisposable
     {

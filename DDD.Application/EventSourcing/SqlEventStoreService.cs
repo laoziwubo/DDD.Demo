@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using DDD.Domain.Event;
-using DDD.Infrastructure.Data.Repository.EventSourcing;
+using DDD.Infrastructure.Repository.EventSourcing;
 using Newtonsoft.Json;
 
 namespace DDD.Application.EventSourcing

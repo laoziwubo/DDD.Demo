@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using DDD.Domain.Interface;
 using DDD.Domain.Model;
-using DDD.Infrastructure.Data.Context;
+using DDD.Infrastructure.Context;
 using Microsoft.EntityFrameworkCore;
 
-namespace DDD.Infrastructure.Data.Repository
+namespace DDD.Infrastructure.Repository
 {
     public class StudentRepository : Repository<Student>, IStudentRepository
     {

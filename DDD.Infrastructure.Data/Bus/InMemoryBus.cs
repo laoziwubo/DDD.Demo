@@ -8,7 +8,7 @@ using DDD.Domain.Command;
 using DDD.Domain.Event;
 using MediatR;
 
-namespace DDD.Infrastructure.Data.Bus
+namespace DDD.Infrastructure.Bus
 {
     public sealed class InMemoryBus : IMediatorHandler
     {

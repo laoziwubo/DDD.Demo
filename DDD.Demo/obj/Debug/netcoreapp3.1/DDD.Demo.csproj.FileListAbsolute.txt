@@ -56,10 +56,8 @@ F:\Git\DDD.Demo\DDD.Demo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1
 F:\Git\DDD.Demo\DDD.Demo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 F:\Git\DDD.Demo\DDD.Demo\bin\Debug\netcoreapp3.1\DDD.Application.dll
 F:\Git\DDD.Demo\DDD.Demo\bin\Debug\netcoreapp3.1\DDD.Domain.dll
-F:\Git\DDD.Demo\DDD.Demo\bin\Debug\netcoreapp3.1\DDD.Infrastructure.Data.dll
 F:\Git\DDD.Demo\DDD.Demo\bin\Debug\netcoreapp3.1\DDD.Application.pdb
 F:\Git\DDD.Demo\DDD.Demo\bin\Debug\netcoreapp3.1\DDD.Domain.pdb
-F:\Git\DDD.Demo\DDD.Demo\bin\Debug\netcoreapp3.1\DDD.Infrastructure.Data.pdb
 F:\Git\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp3.1\DDD.Demo.TagHelpers.input.cache
 F:\Git\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp3.1\DDD.Demo.TagHelpers.output.cache
 F:\Git\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp3.1\DDD.Demo.RazorCoreGenerate.cache
@@ -76,3 +74,5 @@ F:\Git\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp3.1\DDD.Demo.Views.pdb
 F:\Git\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp3.1\DDD.Demo.csproj.CopyComplete
 F:\Git\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp3.1\DDD.Demo.dll
 F:\Git\DDD.Demo\DDD.Demo\obj\Debug\netcoreapp3.1\DDD.Demo.pdb
+F:\Git\DDD.Demo\DDD.Demo\bin\Debug\netcoreapp3.1\DDD.Infrastructure.dll
+F:\Git\DDD.Demo\DDD.Demo\bin\Debug\netcoreapp3.1\DDD.Infrastructure.pdb

@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using DDD.Domain.Event;
-using DDD.Infrastructure.Data.DB;
-using DDD.Infrastructure.Data.Mapping;
+using DDD.Infrastructure.DB;
+using DDD.Infrastructure.Mapping;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
-namespace DDD.Infrastructure.Data.Context
+namespace DDD.Infrastructure.Context
 {
     public class EventStoreSqlContext : DbContext
     {

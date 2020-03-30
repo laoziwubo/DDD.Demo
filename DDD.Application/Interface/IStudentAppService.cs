@@ -4,7 +4,7 @@ using System.Text;
 using DDD.Application.EventSourcedNormalizer;
 using DDD.Application.ViewModel;
 
-namespace DDD.Application.Service
+namespace DDD.Application.Interface
 {
     public interface IStudentAppService : IDisposable
     {

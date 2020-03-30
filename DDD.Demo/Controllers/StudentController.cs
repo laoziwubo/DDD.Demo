@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using DDD.Application.Service;
+using DDD.Application.Interface;
 using DDD.Application.ViewModel;
 using DDD.Domain.Notification;
 using MediatR;

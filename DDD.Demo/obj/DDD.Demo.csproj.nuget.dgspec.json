@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\Git\\DDD.Demo\\DDD.Infrastructure.Data\\DDD.Infrastructure.Data.csproj": {
-                "projectPath": "F:\\Git\\DDD.Demo\\DDD.Infrastructure.Data\\DDD.Infrastructure.Data.csproj"
+              "F:\\Git\\DDD.Demo\\DDD.Infrastructure.Data\\DDD.Infrastructure.csproj": {
+                "projectPath": "F:\\Git\\DDD.Demo\\DDD.Infrastructure.Data\\DDD.Infrastructure.csproj"
               }
             }
           }
@@ -209,12 +209,12 @@
         }
       }
     },
-    "F:\\Git\\DDD.Demo\\DDD.Infrastructure.Data\\DDD.Infrastructure.Data.csproj": {
+    "F:\\Git\\DDD.Demo\\DDD.Infrastructure.Data\\DDD.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Git\\DDD.Demo\\DDD.Infrastructure.Data\\DDD.Infrastructure.Data.csproj",
-        "projectName": "DDD.Infrastructure.Data",
-        "projectPath": "F:\\Git\\DDD.Demo\\DDD.Infrastructure.Data\\DDD.Infrastructure.Data.csproj",
+        "projectUniqueName": "F:\\Git\\DDD.Demo\\DDD.Infrastructure.Data\\DDD.Infrastructure.csproj",
+        "projectName": "DDD.Infrastructure",
+        "projectPath": "F:\\Git\\DDD.Demo\\DDD.Infrastructure.Data\\DDD.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
         "outputPath": "F:\\Git\\DDD.Demo\\DDD.Infrastructure.Data\\obj\\",
         "projectStyle": "PackageReference",

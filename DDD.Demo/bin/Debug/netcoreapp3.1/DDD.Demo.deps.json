@@ -1858,7 +1858,7 @@
         "dependencies": {
           "AutoMapper": "9.0.0",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "7.0.0",
-          "DDD.Infrastructure.Data": "1.0.0"
+          "DDD.Infrastructure": "1.0.0"
         },
         "runtime": {
           "DDD.Application.dll": {}
@@ -1880,7 +1880,7 @@
           "DDD.Domain.dll": {}
         }
       },
-      "DDD.Infrastructure.Data/1.0.0": {
+      "DDD.Infrastructure/1.0.0": {
         "dependencies": {
           "DDD.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "2.2.6",
@@ -1889,10 +1889,10 @@
           "Microsoft.Extensions.Configuration.Json": "2.2.0"
         },
         "runtime": {
-          "DDD.Infrastructure.Data.dll": {}
+          "DDD.Infrastructure.dll": {}
         },
         "compile": {
-          "DDD.Infrastructure.Data.dll": {}
+          "DDD.Infrastructure.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -4662,7 +4662,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "DDD.Infrastructure.Data/1.0.0": {
+    "DDD.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

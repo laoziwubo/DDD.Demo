@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace DDD.Infrastructure.Data.Migrations
+namespace DDD.Infrastructure.Migrations
 {
     public partial class Init : Migration
     {

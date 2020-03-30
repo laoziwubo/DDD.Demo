@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace DDD.Infrastructure.Data.Migrations.EventStoreSql
+namespace DDD.Infrastructure.Migrations.EventStoreSql
 {
     public partial class Init : Migration
     {

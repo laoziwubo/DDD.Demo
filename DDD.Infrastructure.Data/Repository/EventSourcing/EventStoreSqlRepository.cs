@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using DDD.Domain.Event;
-using DDD.Infrastructure.Data.Context;
+using DDD.Infrastructure.Context;
 
-namespace DDD.Infrastructure.Data.Repository.EventSourcing
+namespace DDD.Infrastructure.Repository.EventSourcing
 {
     public class EventStoreSqlRepository : IEventStoreRepository
     {

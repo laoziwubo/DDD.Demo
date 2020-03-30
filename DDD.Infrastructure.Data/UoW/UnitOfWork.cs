@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 using DDD.Domain.Interface;
-using DDD.Infrastructure.Data.Context;
+using DDD.Infrastructure.Context;
 
-namespace DDD.Infrastructure.Data.UoW
+namespace DDD.Infrastructure.UoW
 {
     public class UnitOfWork : IUnitOfWork
     {

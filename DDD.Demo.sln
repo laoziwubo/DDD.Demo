@@ -1,15 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.572
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD.Demo", "DDD.Demo\DDD.Demo.csproj", "{D96BCAF8-7662-4D8B-A1A6-59D125F31A21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDD.Demo", "DDD.Demo\DDD.Demo.csproj", "{D96BCAF8-7662-4D8B-A1A6-59D125F31A21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD.Domain", "DDD.Domain\DDD.Domain.csproj", "{F9F268FC-36EE-4DBE-B89E-5508DCCBDFBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDD.Domain", "DDD.Domain\DDD.Domain.csproj", "{F9F268FC-36EE-4DBE-B89E-5508DCCBDFBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD.Infrastructure.Data", "DDD.Infrastructure.Data\DDD.Infrastructure.Data.csproj", "{6BDC5059-8479-4980-9DAA-76B12F7B11E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDD.Infrastructure", "DDD.Infrastructure.Data\DDD.Infrastructure.csproj", "{6BDC5059-8479-4980-9DAA-76B12F7B11E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD.Application", "DDD.Application\DDD.Application.csproj", "{DF8A4A2B-3A5D-4450-A601-E7FFC38F5E7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDD.Application", "DDD.Application\DDD.Application.csproj", "{DF8A4A2B-3A5D-4450-A601-E7FFC38F5E7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

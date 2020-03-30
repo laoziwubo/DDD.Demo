@@ -5,7 +5,7 @@ using DDD.Domain.Model;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace DDD.Infrastructure.Data.Mapping
+namespace DDD.Infrastructure.Mapping
 {
     public class StudentMap : IEntityTypeConfiguration<Student>
     {

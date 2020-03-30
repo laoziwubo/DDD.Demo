@@ -1,0 +1,11 @@
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\bin\Debug\netcoreapp3.1\DDD.Infrastructure.deps.json
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\bin\Debug\netcoreapp3.1\DDD.Infrastructure.dll
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\bin\Debug\netcoreapp3.1\DDD.Infrastructure.pdb
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\bin\Debug\netcoreapp3.1\DDD.Domain.dll
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\bin\Debug\netcoreapp3.1\DDD.Domain.pdb
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp3.1\DDD.Infrastructure.csprojAssemblyReference.cache
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp3.1\DDD.Infrastructure.AssemblyInfoInputs.cache
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp3.1\DDD.Infrastructure.AssemblyInfo.cs
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp3.1\DDD.Infrastructure.csproj.CopyComplete
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp3.1\DDD.Infrastructure.dll
+F:\Git\DDD.Demo\DDD.Infrastructure.Data\obj\Debug\netcoreapp3.1\DDD.Infrastructure.pdb

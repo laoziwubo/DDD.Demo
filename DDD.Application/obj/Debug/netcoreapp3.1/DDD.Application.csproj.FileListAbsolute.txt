@@ -2,8 +2,6 @@ F:\Git\DDD.Demo\DDD.Application\bin\Debug\netcoreapp3.1\DDD.Application.deps.jso
 F:\Git\DDD.Demo\DDD.Application\bin\Debug\netcoreapp3.1\DDD.Application.dll
 F:\Git\DDD.Demo\DDD.Application\bin\Debug\netcoreapp3.1\DDD.Application.pdb
 F:\Git\DDD.Demo\DDD.Application\bin\Debug\netcoreapp3.1\DDD.Domain.dll
-F:\Git\DDD.Demo\DDD.Application\bin\Debug\netcoreapp3.1\DDD.Infrastructure.Data.dll
-F:\Git\DDD.Demo\DDD.Application\bin\Debug\netcoreapp3.1\DDD.Infrastructure.Data.pdb
 F:\Git\DDD.Demo\DDD.Application\bin\Debug\netcoreapp3.1\DDD.Domain.pdb
 F:\Git\DDD.Demo\DDD.Application\obj\Debug\netcoreapp3.1\DDD.Application.csprojAssemblyReference.cache
 F:\Git\DDD.Demo\DDD.Application\obj\Debug\netcoreapp3.1\DDD.Application.AssemblyInfoInputs.cache
@@ -11,3 +9,5 @@ F:\Git\DDD.Demo\DDD.Application\obj\Debug\netcoreapp3.1\DDD.Application.Assembly
 F:\Git\DDD.Demo\DDD.Application\obj\Debug\netcoreapp3.1\DDD.Application.csproj.CopyComplete
 F:\Git\DDD.Demo\DDD.Application\obj\Debug\netcoreapp3.1\DDD.Application.dll
 F:\Git\DDD.Demo\DDD.Application\obj\Debug\netcoreapp3.1\DDD.Application.pdb
+F:\Git\DDD.Demo\DDD.Application\bin\Debug\netcoreapp3.1\DDD.Infrastructure.dll
+F:\Git\DDD.Demo\DDD.Application\bin\Debug\netcoreapp3.1\DDD.Infrastructure.pdb

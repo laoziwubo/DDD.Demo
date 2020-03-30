@@ -4,11 +4,12 @@ using System.Text;
 using AutoMapper;
 using DDD.Application.EventSourcedNormalizer;
 using DDD.Application.ViewModel;
+using DDD.Application.Interface;
 using DDD.Domain.Bus;
 using DDD.Domain.Command.Student;
 using DDD.Domain.Interface;
 using DDD.Domain.Model;
-using DDD.Infrastructure.Data.Repository.EventSourcing;
+using DDD.Infrastructure.Repository.EventSourcing;
 
 namespace DDD.Application.Service
 {
@@ -23,7 +24,7 @@ namespace DDD.Application.Service
             IStudentRepository studentRepository,
             IMapper mapper,
             IMediatorHandler bus
-            //IEventStoreRepository eventStoreRepository
+        //IEventStoreRepository eventStoreRepository
         )
         {
             _studentRepository = studentRepository;
